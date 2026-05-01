@@ -1,4 +1,5 @@
 # 🌱 Crop Prediction v2 — AI Farming Assistant
+Fully devloped and run by Sumit Kumar Mandal
 
 A full-stack crop recommendation system using Deep Learning (NumPy), FastAPI, and React.
 
